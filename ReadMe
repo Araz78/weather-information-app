@@ -1,0 +1,5 @@
+First make venv or env and then install requirements from requirements.txt
+
+Second run apicall.py from python/api/apicall.py
+
+Finally run this command npm start

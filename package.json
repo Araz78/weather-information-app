@@ -1,0 +1,21 @@
+{
+  "name": "Electron_Js_With_Python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  },
+  "dependencies": {
+    "electron-packager": "^15.1.0",
+    "pkg": "^4.4.9",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
