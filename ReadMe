@@ -4,7 +4,7 @@ Second run apicall.py from python/api/apicall.py
 
 Finally run this command npm start
 
-and if npm you found any npm error just google it
+and if npm you'r found any npm error just google it
 
 one more importent thing about npm error is "Failed start script" or is this "ERR! Failed at the apm@0.0.0 start script." just run this commands :
 
