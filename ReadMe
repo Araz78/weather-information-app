@@ -1,4 +1,4 @@
-First make venv or env and then install requirements from requirements.txt
+First make venv or env in python directory and then install requirements from requirements.txt
 
 Second run apicall.py from python/api/apicall.py
 
