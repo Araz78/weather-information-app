@@ -2,17 +2,17 @@ First make venv or env in python directory and then install requirements from re
 
 Second run apicall.py from python/api/apicall.py
 
-Finally run this command npm start
+Finally run this command npm start.
 
-and if you'r npm found any npm error just google it
+and if you saw any npm error just google it.
 
 one more importent thing about npm error is "Failed start script" or is this "ERR! Failed at the apm@0.0.0 start script." just run this commands :
 
   Delete node_modules folder.
-  then
-  npm cache clean --force
-  then
-  npm install
-  then
-  npm rebuild node-sass
-  then run app
+  then.
+  npm cache clean --force.
+  then.
+  npm install.
+  then.
+  npm rebuild node-sass.
+  then run app.
